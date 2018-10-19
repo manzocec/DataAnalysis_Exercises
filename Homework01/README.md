@@ -8,4 +8,4 @@
 3. Calculate the proportion of passengers by cabin floor. Present your results in a pie chart.
 4. For each travel class, calculate the proportion of the passengers that survived. Present your results in pie charts.
 5. Calculate the proportion of the passengers that survived by travel class and sex. Present your results in a single histogram.
-6. Create 2 equally populated age categories and calculate survival proportions by age category, travel class and sex. Present your results in a DataFrame with unique index.
+6. Create 2 equally populated age categories and calculate survival proportions by age category, travel class and sex. Present your results in a `DataFrame` with unique index.
