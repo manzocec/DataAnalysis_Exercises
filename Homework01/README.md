@@ -1,3 +1,5 @@
+### Homework01
+
 **TASK01**: The `Data/ebola` folder contains summarized reports of Ebola cases from three countries (Guinea, Liberia and Sierra Leone) during the recent outbreak of the disease in West Africa. For each country, there are daily reports that contain various information about the outbreak in several cities in each country. Use pandas to import these data files into a single `Dataframe`. Using this `DataFrame`, calculate for each country, the daily average per month of new cases and deaths. Make sure you handle all the different expressions for new cases and deaths that are used in the reports.
 
 **TASK02**: In the `Data/microbiome` subdirectory, there are 9 spreadsheets of microbiome data that was acquired from high-throughput RNA sequencing procedures, along with a 10th file that describes the content of each. Use pandas to import the first 9 spreadsheets into a single `DataFrame`. Then, add the metadata information from the 10th spreadsheet as columns in the combined `DataFrame`. Make sure that the final `DataFrame` has a unique index and all the `NaN` values have been replaced by the tag `unknown`.
